@@ -35,3 +35,19 @@ This dashboard was built to address key performance challenges faced by the busi
 2. How have orders and profit trended historically?
 3. What is the impact of a price change (via simulation)?
 4. Is this product worth keeping, scaling, or optimizing?
+
+### Page 3: Customer Analysis
+
+**Business Purpose:** Help marketing and sales teams identify high-value customers and potential customer segments for targeted campaigns.
+
+
+
+**Key Questions Answered:**
+
+1. Who are our top customers by revenue?
+2. What is the revenue per customer and how is it changing?
+3. Which income levels and occupations bring in the most orders?
+4. Is the customer base growing over time?
+
+
+
