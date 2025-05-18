@@ -16,14 +16,10 @@ This dashboard was built to address key performance challenges faced by the busi
 **Key Questions Answered:**
 
 1. What’s the current revenue, customer count, and order volume?
-
 2. What are the key trends in revenue over time?
-
 3. Which categories are performing well (or poorly)?
-
 4. What are the top 10 selling products and their return percentages?
-5. 
-6. What’s the most returned product type — and is there a return issue?
+5. What’s the most returned product type — and is there a return issue?
 
 
 ### Page 2: Product Analysis
