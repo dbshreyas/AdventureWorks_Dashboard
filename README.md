@@ -16,8 +16,8 @@ This dashboard was built to address key performance challenges faced by the busi
 4. Data Visualization – Interactive charts, slicers, and cards for storytelling
 
 ### Advanced Features Implemented
-1. Calculated Columns & Measures – Custom KPIs like revenue per customer, return % by product, monthly targets, etc.
-2. Numeric & Field Parameters – Dynamic switching between metrics (e.g., revenue vs orders) and dimension slicing (e.g., product categories)
+1. Calculated Columns & Measures – Custom KPIs like revenue per customer, return %, monthly targets, etc.
+2. Numeric & Field Parameters – Dynamic switching between metrics (e.g., revenue vs orders) and dimension slicing
 3. Bookmarks & Custom Navigation Buttons – Seamless multi-page navigation and storytelling experience
 4. Custom Tooltips – Contextual, hover-based drilldowns without page transitions
 
