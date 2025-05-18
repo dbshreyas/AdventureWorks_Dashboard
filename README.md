@@ -22,6 +22,18 @@ This dashboard was built to address key performance challenges faced by the busi
 3. Which categories are performing well (or poorly)?
 
 4. What are the top 10 selling products and their return percentages?
+5. 
+6. What’s the most returned product type — and is there a return issue?
 
-5. What’s the most returned product type — and is there a return issue?
 
+### Page 2: Product Analysis
+![Product Analysis](https://github.com/dbshreyas/AdventureWorks_Dashboard_Power_BI/blob/main/Dashboard%20Snapshots/2%20Product%20Details.png)
+
+**Business Purpose:** Enable product managers to evaluate product-level profitability and simulate pricing strategies.
+
+**Key Questions Answered:**
+
+1. Is this product hitting revenue, order, and profit targets?
+2. How have orders and profit trended historically?
+3. What is the impact of a price change (via simulation)?
+4. Is this product worth keeping, scaling, or optimizing?
