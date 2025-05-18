@@ -9,9 +9,10 @@ This dashboard was built to address key performance challenges faced by the busi
 ## Page-Level Business Purpose & Questions
 
 ### Page 1: Executive Summary
-![Executive Summary](https://github.com/dbshreyas/AdventureWorks_Dashboard_Power_BI/blob/main/Dashboard%20Snapshots/1%20Executive%20Summary.png)
 
 **Business Purpose:** Provide leadership with a top-level view of business health and identify red flags early (e.g., high return rates, monthly revenue dips).
+
+![Executive Summary](https://github.com/dbshreyas/AdventureWorks_Dashboard_Power_BI/blob/main/Dashboard%20Snapshots/1%20Executive%20Summary.png)
 
 **Key Questions Answered:**
 
@@ -23,9 +24,10 @@ This dashboard was built to address key performance challenges faced by the busi
 
 
 ### Page 2: Product Analysis
-![Product Analysis](https://github.com/dbshreyas/AdventureWorks_Dashboard_Power_BI/blob/main/Dashboard%20Snapshots/2%20Product%20Details.png)
 
 **Business Purpose:** Enable product managers to evaluate product-level profitability and simulate pricing strategies.
+
+![Product Analysis](https://github.com/dbshreyas/AdventureWorks_Dashboard_Power_BI/blob/main/Dashboard%20Snapshots/2%20Product%20Details.png)
 
 **Key Questions Answered:**
 
