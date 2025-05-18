@@ -24,7 +24,7 @@ This dashboard was built to address key performance challenges faced by the busi
 ### AI-Powered Insights
 1. Anomaly Detection – Automatic identification of revenue/order spikes or dips across time
 2. Smart Narratives – Auto-generated textual summaries of visual insights
-3.Key Influencers – AI-driven analysis of what factors impact return rates or order volumes
+3. Key Influencers – AI-driven analysis of what factors impact return rates or order volumes
 4. Q&A Visuals – Natural language question box for real-time data exploration
 5. Decomposition Tree – Drilldown into root causes of sales and return behaviors
 
