@@ -9,4 +9,4 @@ This dashboard was built to address key performance challenges faced by the busi
 ## Page-Level Business Purpose & Questions
 
 ### Page 1: Executive Summary
-![Executive Summary]https://github.com/dbshreyas/AdventureWorks_Dashboard_Power_BI/blob/main/Dashboard%20Snapshots/1%20Executive%20Summary.png
+![Executive Summary](https://github.com/dbshreyas/AdventureWorks_Dashboard_Power_BI/blob/main/Dashboard%20Snapshots/1%20Executive%20Summary.png)
