@@ -6,6 +6,30 @@ To monitor and optimize sales performance and return behavior across products, c
 ## Dashboard Summary
 This dashboard was built to address key performance challenges faced by the business — namely, controlling return rates, optimizing product profitability, and understanding customer value. By tying sales and returns data together, the dashboard equips decision-makers with insights to improve pricing strategies, manage underperforming SKUs, and drive targeted customer outreach, ultimately contributing to revenue growth and cost containment.
 
+## Tech Stack & Key Features
+### Tech Stack
+
+**Power BI Desktop**
+1. Power Query – Data extraction, transformation, and cleansing
+2. DAX (Data Analysis Expressions) – Complex calculations and KPI logic
+3. Data Modeling – Star schema design and relationship management
+4. Data Visualization – Interactive charts, slicers, and cards for storytelling
+
+### Advanced Features Implemented
+1. Calculated Columns & Measures – Custom KPIs like revenue per customer, return % by product, monthly targets, etc.
+2. Numeric & Field Parameters – Dynamic switching between metrics (e.g., revenue vs orders) and dimension slicing (e.g., product categories)
+3. Bookmarks & Custom Navigation Buttons – Seamless multi-page navigation and storytelling experience
+4. Custom Tooltips – Contextual, hover-based drilldowns without page transitions
+
+### AI-Powered Insights
+1. Anomaly Detection – Automatic identification of revenue/order spikes or dips across time
+2. Smart Narratives – Auto-generated textual summaries of visual insights
+3.Key Influencers – AI-driven analysis of what factors impact return rates or order volumes
+4. Q&A Visuals – Natural language question box for real-time data exploration
+5. Decomposition Tree – Drilldown into root causes of sales and return behaviors
+
+
+
 ## Page-Level Business Purpose & Questions
 
 ### Page 1: Executive Summary
