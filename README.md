@@ -40,7 +40,7 @@ This dashboard was built to address key performance challenges faced by the busi
 
 **Business Purpose:** Help marketing and sales teams identify high-value customers and potential customer segments for targeted campaigns.
 
-
+![Customer Analysis](https://github.com/dbshreyas/AdventureWorks_Dashboard_Power_BI/blob/main/Dashboard%20Snapshots/3%20Customer%20Details.png)
 
 **Key Questions Answered:**
 
