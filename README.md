@@ -10,12 +10,20 @@ This dashboard was built to address key performance challenges faced by the busi
 
 ### Page 1: Executive Summary
 ![Executive Summary](https://github.com/dbshreyas/AdventureWorks_Dashboard_Power_BI/blob/main/Dashboard%20Snapshots/1%20Executive%20Summary.png)
+
 Business Purpose:
+
 Provide leadership with a top-level view of business health and identify red flags early (e.g., high return rates, monthly revenue dips).
 
 Key Questions Answered:
+
 What’s the current revenue, customer count, and order volume?
+
 What are the key trends in revenue over time?
+
 Which categories are performing well (or poorly)?
+
 What are the top 10 selling products and their return percentages?
+
 What’s the most returned product type — and is there a return issue?
+
