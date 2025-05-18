@@ -73,4 +73,27 @@ This dashboard was built to address key performance challenges faced by the busi
 4. Is the customer base growing over time?
 
 
+## Overall Business Objective Deepdive
+**High Return Rates on Key Products**
 
+1. The business may be seeing profitability leakage from excessive returns (e.g., helmets and shorts).
+
+2. This dashboard highlights those products and can guide interventions (e.g., QC checks, product redesign, customer education).
+
+**Plateauing Revenue / Orders**
+
+1. Revenue and order growth may be flattening, as shown in the monthly revenue dip.
+
+2. This may prompt the company to explore category-level or product-level actions.
+
+**Product Portfolio Optimization**
+
+1. Certain SKUs may have high orders but low margins or high returns. Decisions need to be made on discontinuation, reengineering, or bundling.
+
+**Customer Segmentation for Targeting**
+
+1. Understanding which customer segments are driving value allows better campaign design, retention efforts, or upselling strategies.
+
+**Price Sensitivity Analysis**
+
+1. The product simulation tool enables controlled pricing strategy testing without deploying changes across the platform.
